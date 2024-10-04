@@ -1,4 +1,4 @@
-You can see it here: (DEMO LINK)[https://ederika.github.io/weather-app/]
+You can see it here: [DEMO LINK:](https://ederika.github.io/weather-app/)
 
 # Getting Started with Create React App
 
