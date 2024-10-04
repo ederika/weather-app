@@ -37,7 +37,7 @@ const Main: React.FC<MainInterface> = ({ address, weatherData, sixDaysWeatherDat
                             <p>Wind speed: {weatherData.windSpeed} m/s</p>
                             <p>Humidity: {weatherData.main.humidity}%</p>
                         </div>
-                        <div className="ml-16 flex flex-col">
+                        <div className="ml-8 flex flex-col">
                             <p>Pressure: {weatherData.main.pressure} hPa</p>
                             <p>Cloudiness: {weatherData.clouds}%</p>
                             <p>Visibility: {weatherData.visibility / 1000} km</p>
